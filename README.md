@@ -28,4 +28,4 @@ Here are some common Linux commands:
 
 ## Conclusion
 Through this exercise, I’ve gained a fundamental understanding of Linux, including its historical background, popular distributions, and essential commands. Learning Linux is invaluable for anyone pursuing a career in IT or software development.
-# winp2000_m06_week3
+
